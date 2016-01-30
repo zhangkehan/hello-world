@@ -6,3 +6,7 @@ This repository will contain a sundry of [coding-life](code-life.md) things. Lik
 **Open an issue if you've got a question or feedback!**
 
 ### ᕕ( ᐛ )ᕗ
+the word has change
+hellow``java int 67686900
+su key 67686900
+ort op keke
